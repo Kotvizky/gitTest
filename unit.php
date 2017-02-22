@@ -1,3 +1,2 @@
-line0
-line2
-line3
+<?php
+ehco "Hello!";
